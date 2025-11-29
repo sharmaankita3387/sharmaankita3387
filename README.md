@@ -38,8 +38,7 @@
 ---
 ## 🎀 My Big Sister Promise
 
-I’m here to make machine learning feel: **approachable, structured, clear, and empowering.**
-If you’re learning ML, building ML, or breaking ML, I’m cheering for you. 💗
+### I’m here to make machine learning feel: *approachable, structured, clear, and empowering.* If you’re learning ML, building ML, or breaking ML, I’m cheering for you. 💗
 ---
 ## Connect With Me  
 **Email:** sharma.ankita3387@gmail.com  
