@@ -3,7 +3,7 @@
 
 ---
 
-### Hi, I’m Ankita: an AI Researcher & Software Engineer exploring the space where, *mechanistic interpretability, scalable systems, and agentic ML intersect.*
+### Hi, I’m Ankita: ML Researcher & Software Engineer exploring the space where, *mechanistic interpretability, scalable systems, and agentic ML intersect.*
 ### I break down complex models, design intelligent systems, and help teams build technology that is *understandable, usable, and beautifully engineered.* 
 ---
 ## What I Do
