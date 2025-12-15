@@ -1,4 +1,4 @@
-### ML Diva • Big Sister in Machine Learning  
+### ML Diva • Your trusted expert in ML  
 *ML is cool, becuase it is rewarding to build models that can help us advance into the new worl of tech and the best part is I can do it for free, no resources needed ;)*
 
 ---
