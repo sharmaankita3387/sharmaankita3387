@@ -1,4 +1,4 @@
-### ML Diva • Your Trusted Expert in Machine Learning   
+### Machine Learning Enthusiast   
 *ML is cool, becuase it is rewarding to build models that can help us advance into the new worl of tech and the best part is I can do it for free, no resources needed ;)*
 
 ---
@@ -35,10 +35,6 @@
 - Agentic AI workflows using LangChain & LangGraph  
 - Building hybrid ML systems that are transparent, modular, and reliable  
 - Supporting young developers & learners in accessible ML education  
----
-## 🎀 My Big Sister Promise
-
-### I’m here to make machine learning feel: *approachable, structured, clear, and empowering.* If you’re learning ML, building ML, or breaking ML, I’m cheering for you. 💗
 ---
 ## Connect With Me  
 **Email:** sharma.ankita3387@gmail.com  
