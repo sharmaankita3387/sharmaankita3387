@@ -2,7 +2,7 @@
  
 ---
 ## What I Did: 
-### **Mechanistic Interpretability & LLM Systems**
+## **Mechanistic Interpretability & LLM Systems**
 GitHub Notebook: [github.com/DSC-McMaster-U/glassbox-llms/blob/main/notebooks/transformerlens_breakdown](https://github.com/DSC-McMaster-U/glassbox-llms/blob/main/notebooks/transformerlens_breakdown.ipynb) 
 - Reverse-engineering LLM internals using tools like hooks, activation patching, and ablations
 - Built reproducible notebooks for visualizing attention patterns and head behaviors
@@ -11,12 +11,12 @@ GitHub Notebook: [github.com/DSC-McMaster-U/glassbox-llms/blob/main/notebooks/in
 - Analyzed **GPT-2 → GPT-3 architectural jumps** (parallel attention, RMSNorm, rotary embeddings, scaling)  
 - Designed the blueprint for a **Python-based interpretability library**
 
-### **Software Engineering & EdTech Leadership**
+## **Software Engineering & EdTech Leadership**
 - Tech Lead at **McMaster Start Coding** building a grade-school edutainment app  
 - Coordinated a cross-functional team (5 engineers + 3 designers)  
 - Mentoring juniors in Elm & functional programming
 
-### Featured Project: Spam Email Classifier (From Scratch in C)
+## Featured Project: Spam Email Classifier (From Scratch in C)
 **Repository**: [SpamEmailClassifier](https://github.com/sharmaankita3387/SpamEmailClassifier) </br> </br>
 **Description**: A lightweight, dependency-free spam email classifier implemented entirely in C, using a mathematically rigorous Naive Bayes model. </br>
 
