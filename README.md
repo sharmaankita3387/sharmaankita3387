@@ -68,4 +68,3 @@ Skills Demonstrated
 **Email:** sharma.ankita3387@gmail.com  
 **LinkedIn:** [linkedin.com/in/sharmaankita3387](https://www.linkedin.com/in/sharmaankita3387/)  
 **GitHub:** [github.com/sharmaankita3387](https://github.com/sharmaankita3387)  
-Let’s build something intelligent, and a little bit beautiful ✨
