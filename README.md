@@ -1,6 +1,3 @@
-`ML is cool, becuase it is rewarding to build models that can help us advance into the new world of tech and the best part is I can do it for free, no resources needed ;)`
----
-
 ### Hi, I’m Ankita: Aspiring ML Researcher & Software Engineer exploring the space where, *mechanistic interpretability, scalable systems, and agentic ML intersect.*
  
 ---
