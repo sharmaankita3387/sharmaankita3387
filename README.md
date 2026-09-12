@@ -47,5 +47,4 @@ I'm a 3rd year **Software Engineering student at McMaster University** focused o
 - **LinkedIn:** [linkedin.com/sharmaankita3387](https://www.linkedin.com/in/sharmaankita3387/)
 - **Resume:** [sharmaankita3387.github.io/cloud-resume](https://sharmaankita3387.github.io/cloud-resume)
 - **Portfolio:** [ankitasharma.dev](https://ankitasharma.dev/)
-- **YouTube:** [@softengnewbies](https://www.youtube.com/@softengnewbies)
 - **Email:** sharma.ankita3387@gmail.com
