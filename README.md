@@ -13,8 +13,6 @@ I'm a 3rd year **Software Engineering student at McMaster University** focused o
 - **Community:** Creating practical guides, roadmaps, and mentorship resources for early-stage engineering students via **Software Engineering Newbies**.
   - **LinkedIn Community:** [Software Engineering Newbies Group](https://www.linkedin.com/groups/39010012/)
   - **Technical Blog:** [ankitasharma.dev](https://ankitasharma.dev/)
-  - **YouTube:** [@softengnewbies](https://www.youtube.com/@softengnewbies)
-  - **Instagram:** [@softengnewbies](https://www.instagram.com/softengnewbies/?hl=en)
 
 ---
 
