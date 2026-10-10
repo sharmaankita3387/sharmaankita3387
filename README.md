@@ -27,11 +27,11 @@ AWS (S3, CloudFront, Lambda, DynamoDB) ⬦ Cloudflare ⬦ Git/GitHub Actions ⬦
 ## Featured Repositories
 
 * **Vasuki**
-  * *Privacy-first local AI assistant and custom language architecture designed for optimized AI code synthesis.*
+  * Privacy-first local AI assistant and custom language architecture designed for optimized AI code synthesis.
 * **Activation-Guided Intent Auditing & Dynamic Escalation Guardrails**
-  * *Mechanistic interpretability framework utilizing PyTorch and TransformerLens for internal activation extraction and dynamic safety guardrails.*
+  * Mechanistic interpretability framework utilizing PyTorch and TransformerLens for internal activation extraction and dynamic safety guardrails.
 * **Dino Buddy**
-  * *Gamified task and focus planner deployed on custom DNS with automated synchronization.*
+  * Gamified task and focus planner deployed on custom DNS with automated synchronization.
 
 ## Connect With Me
 
